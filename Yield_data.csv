@@ -1,0 +1,599 @@
+"region","crop","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023"
+"01 Stockholm county","winter wheat",6340,6350,5710,5920,3890,6420,7010,5700,6210,4530
+"01 Stockholm county","spring wheat",4090,4230,3640,4100,1770,..,..,..,..,1600
+"01 Stockholm county","rye",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","winter barley",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","spring barley",4180,4140,4190,4330,2250,3630,4570,2540,4580,2070
+"01 Stockholm county","oats",3980,3620,2900,3780,1550,3820,4420,2710,4250,2500
+"01 Stockholm county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","peas",3230,3400,3490,2900,1590,3060,3340,1990,3510,1790
+"01 Stockholm county","field beans",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","corn",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","winter rape",3050,3420,3050,3140,1740,3020,3480,2930,2350,1790
+"01 Stockholm county","spring rape",1770,..,2080,1860,1380,..,..,..,2590,2090
+"01 Stockholm county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","oil flax",..,..,..,..,..,..,..,..,..,..
+"01 Stockholm county","temporary grasses",..,4480,3100,3260,2550,4600,4200,4120,2590,2840
+"01 Stockholm county","temporary grasses. First cut",..,3840,2270,3090,1650,2770,3450,3570,2340,1690
+"01 Stockholm county","temporary grasses. Re-growth",..,..,..,..,910,1840,..,..,..,..
+"03 Uppsala county","winter wheat",6860,7240,6080,6330,3780,7250,7520,6520,6020,4890
+"03 Uppsala county","spring wheat",4700,5300,4490,4800,2270,4280,5170,3490,4520,2390
+"03 Uppsala county","rye",4800,5710,..,..,3610,5590,6010,5170,..,..
+"03 Uppsala county","winter barley",..,..,..,..,..,..,..,..,4800,..
+"03 Uppsala county","spring barley",4660,4840,5010,5070,2540,4910,5050,3270,4760,2360
+"03 Uppsala county","oats",4300,4650,4030,4520,2080,4600,4540,2780,4140,2210
+"03 Uppsala county","Winter triticale",6270,6000,5180,..,..,..,..,..,..,..
+"03 Uppsala county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"03 Uppsala county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"03 Uppsala county","peas",3160,3770,3700,3290,2210,3610,3540,2950,3500,1840
+"03 Uppsala county","field beans",..,..,..,..,..,..,..,2430,2810,1490
+"03 Uppsala county","corn",..,..,..,..,..,..,..,..,..,..
+"03 Uppsala county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"03 Uppsala county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"03 Uppsala county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"03 Uppsala county","winter rape",3340,3620,3200,3380,1560,2830,3660,3450,2060,2220
+"03 Uppsala county","spring rape",1980,2340,2490,1950,1390,..,2560,2140,2790,2390
+"03 Uppsala county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"03 Uppsala county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"03 Uppsala county","oil flax",..,1990,2140,..,..,..,..,..,..,..
+"03 Uppsala county","temporary grasses",5720,4380,4600,3390,3370,4460,4880,4910,5990,4740
+"03 Uppsala county","temporary grasses. First cut",3450,2620,2590,2600,1700,2740,3170,3110,3420,2130
+"03 Uppsala county","temporary grasses. Re-growth",..,1770,2010,..,1680,1720,1710,1800,2580,2610
+"04 Södermanland county","winter wheat",6890,7090,6160,6280,4260,7020,7240,6510,6670,4470
+"04 Södermanland county","spring wheat",4160,4700,4710,4240,2360,3940,3850,1790,4100,2120
+"04 Södermanland county","rye",4420,..,..,..,..,..,5020,..,..,..
+"04 Södermanland county","winter barley",..,..,..,..,..,..,..,..,..,..
+"04 Södermanland county","spring barley",4520,5090,4870,4870,2600,4210,4230,2730,4750,2830
+"04 Södermanland county","oats",3880,4220,3730,3740,2040,4040,4510,2980,4190,2340
+"04 Södermanland county","Winter triticale",6310,6060,4750,5660,3810,6390,6400,5170,5750,3940
+"04 Södermanland county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"04 Södermanland county","mixed grain",3160,..,..,..,..,..,..,..,..,..
+"04 Södermanland county","peas",2910,3070,3500,2630,2130,2880,2520,1890,3490,1870
+"04 Södermanland county","field beans",2090,3330,3470,2470,1080,..,2460,..,3220,..
+"04 Södermanland county","corn",..,..,..,..,..,..,..,..,..,..
+"04 Södermanland county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"04 Södermanland county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"04 Södermanland county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"04 Södermanland county","winter rape",3400,3750,3640,3450,1750,3220,3470,3270,2750,2120
+"04 Södermanland county","spring rape",1870,..,2210,..,..,..,..,..,2450,..
+"04 Södermanland county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"04 Södermanland county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"04 Södermanland county","oil flax",1400,1950,2090,..,..,..,..,..,..,..
+"04 Södermanland county","temporary grasses",5130,5950,3770,3540,3680,3910,2680,3540,4510,5240
+"04 Södermanland county","temporary grasses. First cut",2850,3700,2690,2510,1920,2590,1960,2590,2790,1880
+"04 Södermanland county","temporary grasses. Re-growth",2280,2260,1090,1030,1760,1320,720,..,1720,3360
+"05 Östergötland county","winter wheat",7100,7630,6800,7670,5820,7780,7620,6710,7200,5970
+"05 Östergötland county","spring wheat",4630,4350,5070,5240,3300,4730,5100,3430,4690,3330
+"05 Östergötland county","rye",7010,7470,6870,7440,5930,7410,6660,6570,..,5860
+"05 Östergötland county","winter barley",6460,8100,6260,7500,5280,8180,7460,6950,6720,5550
+"05 Östergötland county","spring barley",4860,5310,5370,6140,3670,5750,5440,4250,5900,3980
+"05 Östergötland county","oats",3920,4200,4750,4970,2730,4820,4570,3330,5040,3190
+"05 Östergötland county","Winter triticale",6010,6470,6030,6680,4660,6800,6730,5290,5930,4710
+"05 Östergötland county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"05 Östergötland county","mixed grain",2960,..,3090,..,..,..,3440,..,..,..
+"05 Östergötland county","peas",3560,3900,4230,3910,2680,4080,3720,2620,4100,2590
+"05 Östergötland county","field beans",2830,4180,3320,3570,1310,3650,3520,2650,3410,2770
+"05 Östergötland county","corn",..,..,..,..,..,..,..,..,..,..
+"05 Östergötland county","table potatoes",36490,36150,35460,38910,34620,40180,39450,35600,40370,38890
+"05 Östergötland county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"05 Östergötland county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"05 Östergötland county","winter rape",3610,4080,3140,3210,2570,3280,3700,3380,2920,2870
+"05 Östergötland county","spring rape",1490,..,..,..,1510,..,..,..,..,..
+"05 Östergötland county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"05 Östergötland county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"05 Östergötland county","oil flax",1740,2090,2100,1990,1200,1970,1740,1560,1870,1190
+"05 Östergötland county","temporary grasses",4650,6150,4710,5320,3880,5150,4910,5460,4230,4500
+"05 Östergötland county","temporary grasses. First cut",2710,3300,2660,3270,2340,3070,2720,3020,2690,2100
+"05 Östergötland county","temporary grasses. Re-growth",1950,2860,2050,2050,1530,2080,2190,2440,1540,2400
+"06 Jönköping county","winter wheat",5930,6650,5530,6190,3950,6380,6240,5450,5860,4820
+"06 Jönköping county","spring wheat",4280,4030,4340,..,..,..,..,..,..,..
+"06 Jönköping county","rye",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","winter barley",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","spring barley",3840,4100,3810,3990,2150,3540,4230,3160,3990,2110
+"06 Jönköping county","oats",3460,4390,3700,3780,2350,3400,4090,3250,3900,2960
+"06 Jönköping county","Winter triticale",4530,5020,..,..,..,..,..,5140,5180,3650
+"06 Jönköping county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","mixed grain",3680,..,3700,3910,..,..,..,..,..,..
+"06 Jönköping county","peas",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","field beans",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","corn",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","winter rape",..,..,..,..,..,..,..,3150,3290,..
+"06 Jönköping county","spring rape",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","oil flax",..,..,..,..,..,..,..,..,..,..
+"06 Jönköping county","temporary grasses",4920,5090,4580,5890,3730,5820,5450,6230,5330,5490
+"06 Jönköping county","temporary grasses. First cut",2800,2840,2570,3360,2210,3810,3100,3360,3300,2060
+"06 Jönköping county","temporary grasses. Re-growth",2120,2250,2010,2540,1520,2010,2350,2870,2020,3430
+"07 Kronoberg county","winter wheat",..,..,..,..,..,5660,..,..,..,4630
+"07 Kronoberg county","spring wheat",..,4830,..,4570,..,4600,..,..,..,..
+"07 Kronoberg county","rye",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","winter barley",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","spring barley",3810,4340,4260,3930,2700,4300,4270,3160,4760,2690
+"07 Kronoberg county","oats",4070,4800,4310,3920,2580,3980,4050,2970,3820,3160
+"07 Kronoberg county","Winter triticale",..,5130,..,..,..,..,..,4910,5580,4040
+"07 Kronoberg county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","peas",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","field beans",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","corn",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","winter rape",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","spring rape",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","oil flax",..,..,..,..,..,..,..,..,..,..
+"07 Kronoberg county","temporary grasses",5510,4940,4730,5720,4070,6210,5540,5210,4230,5360
+"07 Kronoberg county","temporary grasses. First cut",3160,3260,2990,3040,2660,3360,2810,2800,2720,2200
+"07 Kronoberg county","temporary grasses. Re-growth",2350,1690,1740,2680,1420,2850,2730,2410,..,3160
+"08 Kalmar county","winter wheat",7100,7650,6850,6850,4680,6650,7160,5520,6270,6010
+"08 Kalmar county","spring wheat",4230,4680,4350,4740,2450,3620,4150,3060,3550,2530
+"08 Kalmar county","rye",..,5800,..,..,..,..,5420,5050,5200,5770
+"08 Kalmar county","winter barley",6500,5950,6140,5710,3480,6580,6570,5050,5250,5170
+"08 Kalmar county","spring barley",4620,4920,4650,4640,2270,3710,4380,2750,3630,2970
+"08 Kalmar county","oats",3780,4720,4090,3190,1870,3270,5040,2400,3200,3050
+"08 Kalmar county","Winter triticale",5450,5650,6090,5010,3490,5660,5900,4350,4870,4160
+"08 Kalmar county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"08 Kalmar county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"08 Kalmar county","peas",3930,3760,4130,3700,2380,3430,3720,2890,2960,3090
+"08 Kalmar county","field beans",..,..,..,..,..,..,..,..,..,..
+"08 Kalmar county","corn",..,..,..,..,..,..,..,..,..,..
+"08 Kalmar county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"08 Kalmar county","potatoes for processing of starch",46870,42760,43600,47940,31350,40170,42150,40290,37060,44240
+"08 Kalmar county","sugar beets",77500,61800,59400,..,..,..,..,..,..,..
+"08 Kalmar county","winter rape",3820,4220,3460,3210,2950,2880,3560,3040,3120,2480
+"08 Kalmar county","spring rape",..,..,..,..,..,..,..,..,..,..
+"08 Kalmar county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"08 Kalmar county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"08 Kalmar county","oil flax",..,..,..,..,..,..,..,..,..,..
+"08 Kalmar county","temporary grasses",4420,5290,5840,6250,3920,5590,6270,5550,4260,5040
+"08 Kalmar county","temporary grasses. First cut",2230,3010,3560,2910,2670,3860,3610,3450,3240,2060
+"08 Kalmar county","temporary grasses. Re-growth",2180,2280,2280,3340,1260,1730,2660,2100,1010,2990
+"09 Gotland county","winter wheat",6040,7310,6480,6350,3290,6190,6320,4660,6070,4370
+"09 Gotland county","spring wheat",4090,4680,4430,4250,2460,3710,4390,2750,4210,3290
+"09 Gotland county","rye",4150,4620,..,5170,..,5470,5360,3620,4710,3510
+"09 Gotland county","winter barley",5610,5730,6170,6050,2760,5860,6260,3970,5660,4230
+"09 Gotland county","spring barley",4320,5060,4360,4460,1980,4160,4790,2840,4200,2530
+"09 Gotland county","oats",3400,3480,3440,2710,1590,3260,3270,2120,3880,1950
+"09 Gotland county","Winter triticale",5590,5920,5160,5340,..,5320,5840,..,..,..
+"09 Gotland county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"09 Gotland county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"09 Gotland county","peas",3550,4260,4030,3790,1900,3420,3560,2690,3350,2480
+"09 Gotland county","field beans",..,..,..,..,..,..,..,..,..,..
+"09 Gotland county","corn",..,..,..,..,..,..,..,..,..,..
+"09 Gotland county","table potatoes",31960,31790,33320,30830,25560,30630,29460,31860,..,31220
+"09 Gotland county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"09 Gotland county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"09 Gotland county","winter rape",3200,4080,3010,2890,1280,2570,2730,2550,2960,1480
+"09 Gotland county","spring rape",1940,2460,1800,..,1810,..,..,2090,2290,1820
+"09 Gotland county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"09 Gotland county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"09 Gotland county","oil flax",..,..,..,..,..,..,..,..,..,..
+"09 Gotland county","temporary grasses",6080,5440,5590,5300,4500,4280,4030,5440,5000,4200
+"09 Gotland county","temporary grasses. First cut",3570,3800,3420,3260,2650,2960,2590,3390,3760,2470
+"09 Gotland county","temporary grasses. Re-growth",2510,1640,2180,2050,1850,1320,1430,2050,1240,1730
+"10 Blekinge county","winter wheat",7260,7760,7100,7200,4640,7560,7700,6470,7750,6370
+"10 Blekinge county","spring wheat",6760,6590,..,6790,3740,6490,6500,5120,..,..
+"10 Blekinge county","rye",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","winter barley",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","spring barley",4720,4980,4550,4910,2950,4770,5450,3950,5110,3640
+"10 Blekinge county","oats",4270,5030,4590,4760,2020,..,..,..,..,..
+"10 Blekinge county","Winter triticale",..,5280,5040,..,..,6110,5520,..,..,..
+"10 Blekinge county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","peas",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","field beans",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","corn",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","potatoes for processing of starch",42100,40260,44660,42680,31350,41580,41930,41240,40590,43080
+"10 Blekinge county","sugar beets",69800,48400,58900,62500,50300,67100,66900,71200,64200,58000
+"10 Blekinge county","winter rape",3970,4200,3580,3540,2550,2930,3520,3260,3570,2520
+"10 Blekinge county","spring rape",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","oil flax",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","temporary grasses",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","temporary grasses. First cut",..,..,..,..,..,..,..,..,..,..
+"10 Blekinge county","temporary grasses. Re-growth",..,..,..,..,..,..,..,..,..,..
+"12 Skåne county","winter wheat",8410,8430,7670,8520,5010,8820,8310,7500,8890,6690
+"12 Skåne county","spring wheat",5820,6450,4760,5400,2840,5880,5740,4510,6430,3730
+"12 Skåne county","rye",7350,6730,6540,7240,4730,7430,6770,5800,7360,5530
+"12 Skåne county","winter barley",6870,6240,6090,7020,4250,7610,6800,6030,7570,5710
+"12 Skåne county","spring barley",5950,6720,5400,6560,3200,6610,6430,5180,7330,3900
+"12 Skåne county","oats",4950,5950,4570,5060,2560,5340,5590,4370,6000,3230
+"12 Skåne county","Winter triticale",6590,6190,5770,6780,4340,6960,6100,5620,6650,4640
+"12 Skåne county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"12 Skåne county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"12 Skåne county","peas",..,4550,3660,4130,2280,3350,3950,2900,4400,1860
+"12 Skåne county","field beans",3500,4420,3630,4610,1520,3980,3480,2650,4370,2500
+"12 Skåne county","corn",7060,..,7930,7510,4090,7020,6270,8550,6550,8210
+"12 Skåne county","table potatoes",31550,33130,32370,31400,29090,33360,33310,31220,33740,33120
+"12 Skåne county","potatoes for processing of starch",44620,44910,45610,43110,36380,42930,43660,42800,42160,43760
+"12 Skåne county","sugar beets",73600,61100,65200,63400,55400,74800,68200,71700,64800,60600
+"12 Skåne county","winter rape",3830,3910,2880,3500,2500,4350,3690,3480,4040,2330
+"12 Skåne county","spring rape",..,..,..,..,..,..,..,..,..,..
+"12 Skåne county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"12 Skåne county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"12 Skåne county","oil flax",..,..,..,..,..,..,..,..,..,..
+"12 Skåne county","temporary grasses",6140,5540,5360,6910,4190,6510,7200,6880,5550,6040
+"12 Skåne county","temporary grasses. First cut",3550,3470,2930,3640,2280,3790,3590,3600,3560,2390
+"12 Skåne county","temporary grasses. Re-growth",2590,2080,2440,3280,1910,2720,3610,3270,1990,3650
+"11 former Kristianstad county","winter wheat",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","spring wheat",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","rye",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","winter barley",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","spring barley",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","oats",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","peas",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","field beans",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","corn",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","winter rape",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","spring rape",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","oil flax",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","temporary grasses",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","temporary grasses. First cut",..,..,..,..,..,..,..,..,..,..
+"11 former Kristianstad county","temporary grasses. Re-growth",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","winter wheat",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","spring wheat",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","rye",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","winter barley",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","spring barley",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","oats",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","peas",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","field beans",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","corn",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","winter rape",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","spring rape",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","oil flax",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","temporary grasses",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","temporary grasses. First cut",..,..,..,..,..,..,..,..,..,..
+"122 former Malmöhus county","temporary grasses. Re-growth",..,..,..,..,..,..,..,..,..,..
+"13 Halland county","winter wheat",7240,7360,6200,7340,3960,7730,7460,6490,7220,6250
+"13 Halland county","spring wheat",5040,5610,4530,4790,3250,4960,5260,4300,5300,3210
+"13 Halland county","rye",..,..,..,..,3950,5430,5530,6310,5840,5780
+"13 Halland county","winter barley",..,..,4350,6510,..,6760,5410,5080,5910,5240
+"13 Halland county","spring barley",5430,5720,4540,5500,3030,5430,5290,3830,5910,3510
+"13 Halland county","oats",5060,5190,4610,4950,2570,5120,5390,3590,5830,3550
+"13 Halland county","Winter triticale",6480,6190,5570,6540,3970,6910,6160,5450,6010,3320
+"13 Halland county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"13 Halland county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"13 Halland county","peas",..,..,..,..,..,..,..,..,..,..
+"13 Halland county","field beans",..,4130,3120,4100,1610,3190,3120,2800,4220,2790
+"13 Halland county","corn",..,..,..,..,..,..,..,..,..,..
+"13 Halland county","table potatoes",37830,38340,38550,32610,35110,39280,39060,38520,41190,35350
+"13 Halland county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"13 Halland county","sugar beets",69900,54600,58100,56700,55400,74700,66300,65800,62100,63300
+"13 Halland county","winter rape",3740,3850,2990,3720,1880,3920,2950,3160,3530,2890
+"13 Halland county","spring rape",2230,..,..,..,..,..,..,..,..,..
+"13 Halland county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"13 Halland county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"13 Halland county","oil flax",..,..,..,..,..,..,..,..,..,..
+"13 Halland county","temporary grasses",6850,6730,7010,6480,4420,7840,6570,7850,6890,6130
+"13 Halland county","temporary grasses. First cut",3190,3170,3330,3420,2460,4240,3060,3720,4050,2190
+"13 Halland county","temporary grasses. Re-growth",3660,3570,3680,3060,1960,3590,3510,4130,2850,3940
+"14 Västra Götaland county","winter wheat",6830,7350,6060,7610,5430,7990,6990,6600,7580,6540
+"14 Västra Götaland county","spring wheat",3970,4030,4260,4130,3170,4170,4000,3170,4650,2630
+"14 Västra Götaland county","rye",5730,6180,5690,6130,4330,6510,5880,6150,6400,5570
+"14 Västra Götaland county","winter barley",7050,6450,4810,6400,3970,6810,6060,6400,6530,6100
+"14 Västra Götaland county","spring barley",4720,4810,4940,5280,3800,5490,4960,3840,5490,3610
+"14 Västra Götaland county","oats",4400,4650,4870,4770,3040,4960,4610,3470,5040,3180
+"14 Västra Götaland county","Winter triticale",5740,5820,4880,6080,4660,6790,5910,5920,6390,4960
+"14 Västra Götaland county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"14 Västra Götaland county","mixed grain",3260,3770,3960,3790,2550,3620,4000,3310,4170,3160
+"14 Västra Götaland county","peas",2950,3310,3530,3450,2390,3300,3010,2550,3660,2720
+"14 Västra Götaland county","field beans",3610,3940,3700,3560,1290,3160,2800,2290,3650,2600
+"14 Västra Götaland county","corn",..,..,..,..,..,..,..,..,..,..
+"14 Västra Götaland county","table potatoes",32250,32350,33540,33110,25210,32750,32970,30790,33610,32780
+"14 Västra Götaland county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"14 Västra Götaland county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"14 Västra Götaland county","winter rape",3900,4090,2930,3640,2630,3710,3440,3700,3540,3370
+"14 Västra Götaland county","spring rape",1850,1830,2040,..,..,..,..,..,2500,2230
+"14 Västra Götaland county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"14 Västra Götaland county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"14 Västra Götaland county","oil flax",..,..,1750,..,..,..,..,..,..,..
+"14 Västra Götaland county","temporary grasses",5290,6110,5180,5470,4390,5970,5710,5430,5400,5570
+"14 Västra Götaland county","temporary grasses. First cut",2860,3690,2790,3170,2480,3390,2940,3050,3010,2270
+"14 Västra Götaland county","temporary grasses. Re-growth",2430,2430,2390,2300,1910,2580,2760,2380,2390,3300
+"141 former Göteborgs o Bohus county","winter wheat",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","spring wheat",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","rye",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","winter barley",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","spring barley",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","oats",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","peas",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","field beans",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","corn",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","winter rape",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","spring rape",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","oil flax",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","temporary grasses",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","temporary grasses. First cut",..,..,..,..,..,..,..,..,..,..
+"141 former Göteborgs o Bohus county","temporary grasses. Re-growth",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","winter wheat",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","spring wheat",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","rye",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","winter barley",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","spring barley",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","oats",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","peas",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","field beans",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","corn",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","winter rape",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","spring rape",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","oil flax",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","temporary grasses",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","temporary grasses. First cut",..,..,..,..,..,..,..,..,..,..
+"15 former Älvsborg county","temporary grasses. Re-growth",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","winter wheat",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","spring wheat",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","rye",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","winter barley",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","spring barley",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","oats",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","peas",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","field beans",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","corn",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","winter rape",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","spring rape",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","oil flax",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","temporary grasses",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","temporary grasses. First cut",..,..,..,..,..,..,..,..,..,..
+"16 former Skaraborg county","temporary grasses. Re-growth",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","winter wheat",6140,6840,5380,6430,3620,7160,6340,4670,5690,5600
+"17 Värmland county","spring wheat",4050,4680,4350,4190,2110,4610,4020,4300,4510,3090
+"17 Värmland county","rye",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","winter barley",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","spring barley",3650,4130,4340,4440,2280,4860,4250,3420,4480,2770
+"17 Värmland county","oats",3260,4330,4050,3830,1810,4530,3980,2990,4210,3040
+"17 Värmland county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","mixed grain",..,..,..,..,..,..,..,..,..,2190
+"17 Värmland county","peas",..,..,3130,..,2040,2590,..,2140,3390,2010
+"17 Värmland county","field beans",..,..,3280,2870,..,..,1860,1920,2250,..
+"17 Värmland county","corn",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","table potatoes",25750,26010,25800,24680,..,..,..,21560,22700,..
+"17 Värmland county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","winter rape",..,..,..,..,..,..,2710,..,..,..
+"17 Värmland county","spring rape",..,..,..,..,..,..,..,..,2460,1980
+"17 Värmland county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","oil flax",..,..,..,..,..,..,..,..,..,..
+"17 Värmland county","temporary grasses",3890,3390,4260,3990,2830,5530,4390,4850,4310,2960
+"17 Värmland county","temporary grasses. First cut",2620,2500,2840,2710,1900,3780,2850,3150,2930,1700
+"17 Värmland county","temporary grasses. Re-growth",1270,890,1420,1290,930,1750,1530,1700,1380,1260
+"18 Örebro county","winter wheat",6800,6910,6430,7010,4980,7710,7380,6170,6570,5540
+"18 Örebro county","spring wheat",4970,5620,5170,5140,3190,5570,5420,4200,5460,3410
+"18 Örebro county","rye",..,..,..,..,..,..,..,..,..,..
+"18 Örebro county","winter barley",..,..,..,..,..,6600,5890,5030,5280,..
+"18 Örebro county","spring barley",4480,4960,4980,5610,3070,5570,5050,3460,4960,2870
+"18 Örebro county","oats",4490,4800,4480,4820,2380,5350,4800,3270,4600,2790
+"18 Örebro county","Winter triticale",5250,5320,..,..,..,5980,..,4310,..,3860
+"18 Örebro county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"18 Örebro county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"18 Örebro county","peas",3350,3460,3510,3330,2620,3430,3010,2210,3630,2060
+"18 Örebro county","field beans",3200,3160,3020,..,..,..,2500,2460,..,..
+"18 Örebro county","corn",..,..,..,..,..,..,..,..,..,..
+"18 Örebro county","table potatoes",28050,28430,33370,33630,27600,36740,36440,28110,37740,26580
+"18 Örebro county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"18 Örebro county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"18 Örebro county","winter rape",3350,3800,3350,3790,2550,3750,3350,3220,2860,2920
+"18 Örebro county","spring rape",1930,..,..,..,..,..,..,..,2370,..
+"18 Örebro county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"18 Örebro county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"18 Örebro county","oil flax",..,..,..,..,..,..,..,..,..,..
+"18 Örebro county","temporary grasses",4940,4330,4900,5040,3870,4390,4550,4240,4730,4210
+"18 Örebro county","temporary grasses. First cut",3260,2610,2880,3120,2140,2760,2920,2780,2950,1890
+"18 Örebro county","temporary grasses. Re-growth",..,..,2020,..,1730,1630,..,1460,..,2310
+"19 Västmanland county","winter wheat",6520,7090,5680,6280,3490,6880,6770,5930,5930,3510
+"19 Västmanland county","spring wheat",4750,5420,4800,5000,2170,4540,4660,3370,4800,1720
+"19 Västmanland county","rye",..,..,..,..,..,..,..,..,..,..
+"19 Västmanland county","winter barley",..,..,..,..,..,..,..,..,..,..
+"19 Västmanland county","spring barley",4660,5090,4680,5670,2820,5090,4780,2860,5120,1980
+"19 Västmanland county","oats",3910,4810,4330,4750,2160,4890,4450,2970,4680,2370
+"19 Västmanland county","Winter triticale",..,5670,..,..,..,..,..,..,..,..
+"19 Västmanland county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"19 Västmanland county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"19 Västmanland county","peas",2700,3480,3140,3060,2230,2880,2750,2020,3640,1250
+"19 Västmanland county","field beans",3080,4160,3600,2700,..,3520,2830,1940,3020,1690
+"19 Västmanland county","corn",..,..,..,..,..,..,..,..,..,..
+"19 Västmanland county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"19 Västmanland county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"19 Västmanland county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"19 Västmanland county","winter rape",3240,3120,2600,3310,1360,2540,3530,2850,1520,1470
+"19 Västmanland county","spring rape",1780,..,2310,2150,1570,..,1970,1540,2590,1760
+"19 Västmanland county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"19 Västmanland county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"19 Västmanland county","oil flax",..,..,1670,..,..,..,..,..,..,..
+"19 Västmanland county","temporary grasses",..,3830,..,5690,4080,3700,5920,..,3530,..
+"19 Västmanland county","temporary grasses. First cut",..,2560,..,3090,1990,2420,3800,..,2200,..
+"19 Västmanland county","temporary grasses. Re-growth",..,..,..,..,2100,..,..,..,..,..
+"20 Dalarna county","winter wheat",5960,5070,5670,5480,2180,5640,5550,5280,4230,2430
+"20 Dalarna county","spring wheat",3180,3860,3340,4040,2420,4010,3180,2420,3060,1920
+"20 Dalarna county","rye",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","winter barley",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","spring barley",3440,3590,3670,4040,2610,4370,3180,2860,3810,2320
+"20 Dalarna county","oats",3920,4480,3830,4310,2260,4410,3540,3040,4310,2850
+"20 Dalarna county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","peas",..,..,..,..,1800,2510,2600,..,3280,1460
+"20 Dalarna county","field beans",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","corn",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","table potatoes",28010,28000,28740,28600,27760,32120,30090,28920,31220,26770
+"20 Dalarna county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","winter rape",..,..,..,3000,..,..,..,3130,..,..
+"20 Dalarna county","spring rape",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","oil flax",..,..,..,..,..,..,..,..,..,..
+"20 Dalarna county","temporary grasses",5240,5690,3560,5660,3230,4060,3680,5260,3960,3580
+"20 Dalarna county","temporary grasses. First cut",3060,3600,2570,3750,1920,3190,2520,3290,2310,1690
+"20 Dalarna county","temporary grasses. Re-growth",2190,..,990,1910,1310,..,1160,1970,..,1880
+"21 Gävleborg county","winter wheat",4990,5940,..,5260,..,4980,4870,4490,3890,1750
+"21 Gävleborg county","spring wheat",3990,4340,3800,3580,2650,4100,3930,3360,3640,1670
+"21 Gävleborg county","rye",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","winter barley",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","spring barley",3140,3440,3270,3180,2440,3120,3590,2900,3400,2000
+"21 Gävleborg county","oats",2740,3680,3570,3260,2010,3230,3360,2860,3670,1950
+"21 Gävleborg county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","peas",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","field beans",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","corn",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","table potatoes",17130,16810,..,..,..,..,..,..,..,..
+"21 Gävleborg county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","winter rape",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","spring rape",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","spring turnip rape",..,..,..,1550,1150,..,..,..,1500,..
+"21 Gävleborg county","oil flax",..,..,..,..,..,..,..,..,..,..
+"21 Gävleborg county","temporary grasses",4340,4860,4660,4270,3220,4810,4340,4250,4310,4500
+"21 Gävleborg county","temporary grasses. First cut",2690,3010,2910,2850,1900,3260,2860,2940,2640,2290
+"21 Gävleborg county","temporary grasses. Re-growth",1640,1850,1750,1410,1320,1550,1480,1320,1670,2210
+"22 Västernorrland county","winter wheat",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","spring wheat",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","rye",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","winter barley",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","spring barley",2670,2510,2720,2260,1990,2630,2430,2410,2820,2220
+"22 Västernorrland county","oats",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","peas",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","field beans",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","corn",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","winter rape",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","spring rape",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","oil flax",..,..,..,..,..,..,..,..,..,..
+"22 Västernorrland county","temporary grasses",3520,3920,4480,3910,3130,3880,3780,3880,3540,3350
+"22 Västernorrland county","temporary grasses. First cut",2570,2710,3390,2860,2020,2560,2700,3340,2630,2420
+"22 Västernorrland county","temporary grasses. Re-growth",..,..,1090,1040,1120,1320,1080,..,..,..
+"23 Jämtland county","winter wheat",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","spring wheat",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","rye",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","winter barley",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","spring barley",2940,2780,3330,3370,2590,3090,3100,3320,3530,2570
+"23 Jämtland county","oats",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","peas",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","field beans",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","corn",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","table potatoes",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","winter rape",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","spring rape",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","oil flax",..,..,..,..,..,..,..,..,..,..
+"23 Jämtland county","temporary grasses",3770,3160,4960,3590,2750,3980,4080,4100,4130,3440
+"23 Jämtland county","temporary grasses. First cut",2930,2260,3540,2520,1730,2990,2540,2680,3100,2140
+"23 Jämtland county","temporary grasses. Re-growth",..,..,1420,1080,1020,990,1540,1420,..,1300
+"24 Västerbotten county","winter wheat",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","spring wheat",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","rye",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","winter barley",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","spring barley",2890,2310,2810,1850,2910,3300,3370,2690,3340,2780
+"24 Västerbotten county","oats",..,2470,2950,830,..,2630,..,2540,3610,2300
+"24 Västerbotten county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","peas",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","field beans",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","corn",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","table potatoes",17690,15640,20470,17780,19360,20450,19760,19590,18950,..
+"24 Västerbotten county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","winter rape",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","spring rape",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","oil flax",..,..,..,..,..,..,..,..,..,..
+"24 Västerbotten county","temporary grasses",3810,3660,4240,3190,3200,3920,4120,4220,4280,3240
+"24 Västerbotten county","temporary grasses. First cut",2140,2380,2760,2150,1910,2580,2420,2830,2810,1890
+"24 Västerbotten county","temporary grasses. Re-growth",1670,1280,1490,1040,1290,1340,1690,1400,1470,1350
+"25 Norrbotten county","winter wheat",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","spring wheat",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","rye",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","winter barley",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","spring barley",2740,1520,2580,1330,2620,2660,2430,2300,3050,2310
+"25 Norrbotten county","oats",..,..,..,570,..,..,2320,..,..,..
+"25 Norrbotten county","Winter triticale",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","spring triticale",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","mixed grain",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","peas",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","field beans",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","corn",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","table potatoes",18230,13320,17150,14880,18200,17840,20700,..,..,..
+"25 Norrbotten county","potatoes for processing of starch",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","sugar beets",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","winter rape",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","spring rape",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","winter turnip rape",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","spring turnip rape",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","oil flax",..,..,..,..,..,..,..,..,..,..
+"25 Norrbotten county","temporary grasses",3520,4420,3920,2840,3270,3950,3680,3960,3530,4560
+"25 Norrbotten county","temporary grasses. First cut",2420,3010,2810,1990,1750,2940,2010,2830,2760,2610
+"25 Norrbotten county","temporary grasses. Re-growth",..,1400,1100,..,1520,..,..,..,..,..
